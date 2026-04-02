@@ -1,0 +1,12 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+*.tfplan
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
